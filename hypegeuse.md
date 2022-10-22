@@ -1,5 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=hypegeuse&show_icons=true%22%3E
-
 # Merhaba, ben Ahmet Tolga KÜÇÜK! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypegeuse" alt="hypegeuse" /> </p>
 
